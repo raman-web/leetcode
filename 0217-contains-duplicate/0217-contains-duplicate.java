@@ -5,8 +5,9 @@ class Solution {
             return false;
         HashSet<Integer> set = new HashSet<>(n);
         for (int i : nums) {
-            set.add(i);
+            if (!set.add(i))
+                return true;
         }
-        return set.size()<n;
+        return false;
     }
 }
