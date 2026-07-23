@@ -1,8 +1,12 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-      List<Integer> numbers = new ArrayList<>(nums.length);
-      for( int n : nums ) numbers.add(n);
-      long count = numbers.stream().distinct().count();
-      return count < numbers.size();
+        int n = nums.length;
+        if (n < 2)
+            return false;
+        HashSet<Integer> set = new HashSet<>(n);
+        for (int i : nums) {
+            set.add(i);
+        }
+        return set.size()<n;
     }
 }
