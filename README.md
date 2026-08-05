@@ -25,17 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raman-web/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/raman-web/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/raman-web/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raman-web/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/raman-web/leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/raman-web/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/raman-web/leetcode/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/raman-web/leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/raman-web/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
