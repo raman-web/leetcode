@@ -3,15 +3,13 @@ import java.util.Map;
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>();
+        HashMap<Integer, Integer> seen = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
-            }
-            // putIfAbsent avoids replacing earlier index if duplicate number appears
-            map.putIfAbsent(nums[i], i);
+            if (!seen.containsKey(target - nums[i]))
+                seen.put(nums[i], i);
+            else
+                return new int[] { seen.get(target - nums[i]), i };
         }
-        throw new IllegalArgumentException("No two sum solution");
+        return null;
     }
 }
