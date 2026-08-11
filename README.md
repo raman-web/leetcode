@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raman-web/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/raman-web/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/raman-web/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/raman-web/leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/raman-web/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/raman-web/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/raman-web/leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/raman-web/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raman-web/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raman-web/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raman-web/leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/raman-web/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
