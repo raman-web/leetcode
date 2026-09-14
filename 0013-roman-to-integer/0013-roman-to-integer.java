@@ -22,7 +22,6 @@ class Solution {
             } else {
                 result += currentElement;
             }
-            System.out.println(i+" Loop : "+ result);
         }
         return result;
     }
