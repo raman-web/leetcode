@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raman-web/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/raman-web/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/raman-web/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/raman-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/raman-web/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raman-web/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-web/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raman-web/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/raman-web/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/raman-web/leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/raman-web/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raman-web/leetcode/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raman-web/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
