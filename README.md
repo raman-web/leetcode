@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/raman-web/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/raman-web/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-web/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0769-max-chunks-to-make-sorted](https://github.com/raman-web/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/raman-web/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raman-web/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raman-web/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0769-max-chunks-to-make-sorted](https://github.com/raman-web/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## String
 |  |
 | ------- |
@@ -118,9 +120,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/raman-web/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raman-web/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raman-web/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/raman-web/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/raman-web/leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
